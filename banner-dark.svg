@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="100%">
+  <defs>
+    <pattern id="grid-dark" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#262930" stroke-width="0.7" opacity="0.65"/>
+    </pattern>
+  </defs>
+  <rect width="880" height="180" rx="12" fill="#13161B" stroke="#2B303B" stroke-width="1.5"/>
+  <rect width="880" height="180" rx="12" fill="url(#grid-dark)"/>
+  <rect x="44" y="38" width="36" height="3" rx="1.5" fill="#E06C4E"/>
+  <text x="90" y="43" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#E06C4E" letter-spacing="3" font-weight="600">BUILDER LOG · BEIJING</text>
+  <text x="44" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#F0EDE6" font-weight="700" letter-spacing="-0.5">Hi, I'm Jason.</text>
+  <text x="44" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#A8A296">I build agentic workflows, interactive 3D web worlds, and design-driven AI tools.</text>
+  <text x="44" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#787266">"Specs over vibes. Verification gates over self-reports."</text>
+  <g transform="translate(740, 48)" opacity="0.85">
+    <circle cx="42" cy="42" r="38" fill="none" stroke="#2B303B" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <circle cx="42" cy="42" r="26" fill="none" stroke="#232730" stroke-width="1"/>
+    <path d="M22 46 L64 26 L46 64 L39 48 Z" fill="none" stroke="#E06C4E" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M64 26 L39 48" stroke="#E06C4E" stroke-width="1.2"/>
+  </g>
+</svg>
